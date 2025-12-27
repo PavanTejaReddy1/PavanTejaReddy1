@@ -4,15 +4,15 @@
 
 <h1 align="center">Hi 👋, I'm Pavan Teja Reddy</h1>
 <p align="center">
-Frontend / Full Stack Developer passionate about building scalable, user-centric web applications.
+Frontend / Full Stack Developer passionate about building scalable, user centric web applications.
 Skilled in React, Tailwind CSS, and JavaScript.  
-Focused on clean UI, real-world projects, and continuous learning.
+Focused on clean UI, real world projects, and continuous learning.
 </p>
 
 ---
 
 ### 🌱 About Me
-- 💻 Full Stack Developer focused on building scalable and user-centric web applications
+- 💻 Full Stack Developer focused on building scalable and user centric web applications
 - ⚙️ Strong experience across frontend and backend development
 - 🧠 Proficient with modern JavaScript frameworks and backend systems
 - 🚀 Passionate about clean architecture, performance, and continuous learning
