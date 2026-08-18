@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="\https://raw.githubusercontent.com/Ubaid2116/Ubaid2116/main/github-ppic.gif" width="800" alt="Developer illustration" />
+  <img src="https://www.deviantart.com/pixeljeff/art/Coding-990517671" width="800" alt="Developer illustration" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Pavan Teja Reddy</h1>
